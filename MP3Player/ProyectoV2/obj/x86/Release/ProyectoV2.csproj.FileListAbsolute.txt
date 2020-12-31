@@ -1,0 +1,5 @@
+C:\Users\Joel\Desktop\ProyectoV2\ProyectoV2\bin\Release\ProyectoV2.exe
+C:\Users\Joel\Desktop\ProyectoV2\ProyectoV2\bin\Release\ProyectoV2.pdb
+C:\Users\Joel\Desktop\ProyectoV2\ProyectoV2\obj\x86\Release\ProyectoV2.exe
+C:\Users\Joel\Desktop\ProyectoV2\ProyectoV2\obj\x86\Release\ProyectoV2.pdb
+C:\Users\Joel\Desktop\ProyectoV2\ProyectoV2\obj\x86\Release\ProyectoV2.csprojResolveAssemblyReference.cache
